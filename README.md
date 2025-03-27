@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1KOzu2WQ4Cq0gaYT-xHVXUWClnhitD5LD/view?usp=drive_link)
+![Banner](https://drive.google.com/file/d/1KOzu2WQ4Cq0gaYT-xHVXUWClnhitD5LD/view?usp=sharing)
 
 # Hi, I'm @abenezer 👋
 
