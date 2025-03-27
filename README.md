@@ -2,6 +2,7 @@
 
 # Hi, I'm @abenezer 👋
 ## 🛠️ Languages and Tools:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
@@ -13,14 +14,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Adobe-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Adobe-Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
-  <img src="https://img.shields.io/badge/Microsoft-Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Microsoft-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Microsoft_PowerPoint_2013-2019_logo.svg" width="40" height="40" />
 </p>
 
 ## 👀 I'm interested in
@@ -43,6 +44,8 @@
 
 ## ⚡ Fun fact:
 I love solving coding challenges and exploring new tech trends!
+
+
 
 
 
