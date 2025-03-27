@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1KOzu2WQ4Cq0gaYT-xHVXUWClnhitD5LD/view?usp=sharing)
+![Banner](https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg)
 
 # Hi, I'm @abenezer 👋
 
