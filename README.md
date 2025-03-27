@@ -13,14 +13,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobephotoshop/adobephotoshop-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobepremierepro/adobepremierepro-original.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Adobe-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Adobe-Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Microsoft-Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Microsoft-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="40" />
 </p>
 
 ## 👀 I'm interested in
