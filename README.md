@@ -1,4 +1,4 @@
-![Banner](https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHHS4vYG4e_SQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1674210826384?e=2147483647&v=beta&t=RF65cHh2-Mg-n9x5l2PYYJjI-SUiCXUJH-EOJIQibYc)
 
 # Hi, I'm @abenezer 👋
 
