@@ -20,7 +20,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" width="40" height="40" />
- <img src="https://www.mamp.info/wp-content/themes/mamp4/images/mamp-logo@2x.png" width="40" height="40" />
 </p>
 
 ## 👀 I'm interested in
