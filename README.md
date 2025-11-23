@@ -28,11 +28,11 @@
 - Open Source Contributions
 
 ## 🌱 I'm currently learning
-- Backend Development (Node.js, Express, MongoDB)
-- API Development
+- Cloud Engineering
+- AWS
 
 ## 💞️ I'm looking to collaborate on
-- Web Development Projects
+- MERN Stack Web Development Projects
 - Open Source Contributions
 
 ## 📫 How to reach me
