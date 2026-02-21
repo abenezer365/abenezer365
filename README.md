@@ -1,4 +1,4 @@
-![Banner](https://abenezerzewge.com/uploads/x%20banner.jpg)
+![Banner](https://pbs.twimg.com/profile_banners/1962513473650266112/1763906136/1080x360)
 
 # Hi, I'm @abenezer 👋
 ## 🛠️ Languages and Tools:
