@@ -20,7 +20,7 @@ Outside development I spend time watching movies, gaming, and occasionally vibe-
 JavaScript • Python • SQL • HTML • CSS
 
 ### Frontend
-React • SCSS • Bootstrap • Responsive Design
+React • SCSS • Bootstrap • Responsive Design  • Next  • TypeScript • TailwindCSS
 
 ### Backend
 Node.js • Express • REST APIs
@@ -29,7 +29,7 @@ Node.js • Express • REST APIs
 MySQL • MongoDB
 
 ### Cloud & DevOps
-AWS (EC2, S3 basics) • Linux • Deployment • Git
+AWS (EC2, S3 basics) • Linux • Netlify • Vercel, Docker • Git
 
 ### Tools
 Git • GitHub • Figma • Photoshop • Illustrator
@@ -39,7 +39,7 @@ Git • GitHub • Figma • Photoshop • Illustrator
 # Projects
 
 **Amazon Clone**  
-Full-stack ecommerce platform with authentication, orders, and product management.
+Full stack ecommerce platform with authentication, orders, and product management.
 
 **Netflix Clone**  
 Streaming UI clone built with React and modern frontend practices.
@@ -51,7 +51,7 @@ Full-stack car service management system for garages to track orders and notify 
 Experimental photo storage platform using MERN stack and AWS storage services.
 
 **Olis Knitwear**  
-Full-stack ecommerce platform built for a local clothing brand.
+Full stack ecommerce platform built for a local clothing brand.
 
 ---
 
@@ -67,10 +67,10 @@ Full-stack ecommerce platform built for a local clothing brand.
 # Contact
 
 **Email**  
-info@abenezerzewge.com
+abenezerzewge0@gmail.com
 
 **Portfolio**  
-https://abenezerzewge.com
+https://abenether.com
 
 ---
 
