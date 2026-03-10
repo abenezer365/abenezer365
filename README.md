@@ -1,54 +1,76 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1962513473650266112/1763906136/1080x360)
 
-# Hi, I'm @abenezer 👋
-## 🛠️ Languages and Tools:
+# Abenezer Zewge
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" width="40" height="40" />
-</p>
+**MERN Full-Stack Developer · UI/UX Designer · Aspiring DevOps Engineer**
 
-## 👀 I'm interested in
-- Frontend and Backend Development
-- UI/UX Design
-- Open Source Contributions
+I'm a 16-year-old developer from Ethiopia focused on building practical web applications and scalable systems.
 
-## 🌱 I'm currently learning
-- Cloud Engineering
-- AWS
+My interests sit at the intersection of **backend systems, cloud infrastructure, algorithms, and digital investigation techniques** — understanding how systems work internally and how data can reveal patterns.
 
-## 💞️ I'm looking to collaborate on
-- MERN Stack Web Development Projects
-- Open Source Contributions
+I enjoy building real applications, solving algorithmic problems, and exploring technologies used in production environments.
 
-## 📫 How to reach me
-- **Email:** info@abenezerzewge.com
+Outside development I spend time watching movies, gaming, and occasionally vibe-coding while eating.
 
-## 🏳️ Pronouns: He/Him
+---
 
-## ⚡ Fun fact:
-I love solving coding challenges and exploring new tech trends!
+# Tech Stack
 
+### Languages
+JavaScript • Python • SQL • HTML • CSS
 
+### Frontend
+React • SCSS • Bootstrap • Responsive Design
 
+### Backend
+Node.js • Express • REST APIs
 
+### Databases
+MySQL • MongoDB
 
+### Cloud & DevOps
+AWS (EC2, S3 basics) • Linux • Deployment • Git
 
-<!---
-abenezer365/abenezer365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tools
+Git • GitHub • Figma • Photoshop • Illustrator
+
+---
+
+# Projects
+
+**Amazon Clone**  
+Full-stack ecommerce platform with authentication, orders, and product management.
+
+**Netflix Clone**  
+Streaming UI clone built with React and modern frontend practices.
+
+**Abe Garage**  
+Full-stack car service management system for garages to track orders and notify clients.
+
+**Jemaw**  
+Experimental photo storage platform using MERN stack and AWS storage services.
+
+**Olis Knitwear**  
+Full-stack ecommerce platform built for a local clothing brand.
+
+---
+
+# Currently Exploring
+
+- DevOps practices  
+- Cloud architecture with AWS  
+- Algorithms & problem solving  
+- Systems thinking and data analysis
+
+---
+
+# Contact
+
+**Email**  
+info@abenezerzewge.com
+
+**Portfolio**  
+https://abenezerzewge.com
+
+---
+
