@@ -6,7 +6,7 @@
 
 I'm a 16-year-old developer from Ethiopia focused on building practical web applications and scalable systems.
 
-My interests sit at the intersection of **backend systems, cloud infrastructure, algorithms, and digital investigation techniques** — understanding how systems work internally and how data can reveal patterns.
+My interests sit at the intersection of **backend systems, cloud infrastructure, algorithms, and digital investigation techniques** understanding how systems work internally and how data can reveal patterns.
 
 I enjoy building real applications, solving algorithmic problems, and exploring technologies used in production environments.
 
@@ -33,25 +33,6 @@ AWS (EC2, S3 basics) • Linux • Netlify • Vercel, Docker • Git
 
 ### Tools
 Git • GitHub • Figma • Photoshop • Illustrator
-
----
-
-# Projects
-
-**Amazon Clone**  
-Full stack ecommerce platform with authentication, orders, and product management.
-
-**Netflix Clone**  
-Streaming UI clone built with React and modern frontend practices.
-
-**Abe Garage**  
-Full-stack car service management system for garages to track orders and notify clients.
-
-**Jemaw**  
-Experimental photo storage platform using MERN stack and AWS storage services.
-
-**Olis Knitwear**  
-Full stack ecommerce platform built for a local clothing brand.
 
 ---
 
