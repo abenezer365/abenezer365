@@ -1,3 +1,9 @@
+![Banner](https://pbs.twimg.com/profile_banners/1962513473650266112/1763906136/1080x360)
+
+# Abenezer Zewge
+
+**MERN Full-Stack Developer · UI/UX Designer · Aspiring DevOps Engineer**
+
 # 💫 About Me:
 I'm a 16-year-old developer from Ethiopia focused on building practical web applications and scalable systems.<br><br>My interests sit at the intersection of backend systems, cloud infrastructure, algorithms, and digital investigation techniques understanding how systems work internally and how data can reveal patterns.<br><br>I enjoy building real applications, solving algorithmic problems, and exploring technologies used in production environments.<br><br>Outside development I spend time watching movies, gaming, and occasionally vibe-coding while eating.<br><br>
 
